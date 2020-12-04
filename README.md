@@ -21,4 +21,6 @@
     - Project window : Alt + 1
     - Problems window : Alt + 6
     - Git window : Alt + 9
+    - Quick switch scheme : Ctrl + `
+    - Settings : Ctrl + Alt + s
     
