@@ -23,4 +23,7 @@
     - Git window : Alt + 9
     - Quick switch scheme : Ctrl + `
     - Settings : Ctrl + Alt + s
+    - Move tab : Alt + ( Right | Left )
+    - Go to editor(from a tool window) : Esc
+    - Close active tab or window : Ctrl + F4
     
