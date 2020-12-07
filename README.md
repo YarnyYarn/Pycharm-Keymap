@@ -31,6 +31,7 @@
   
 - Find everything
   - Search : Shift + Shift
-  - Find / Search : Ctrl + F / R
-  - Find / Search in path : Ctrl + F / R
-  - 
+  - Find / Search : Ctrl + ( F / R )
+  - Find / Search in path : Ctrl + Shift + ( F / R )
+  - Next / previous occurence : F3 / Shift + F3
+  - Go to file member : Ctrl + F12
