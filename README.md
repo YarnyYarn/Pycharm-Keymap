@@ -35,3 +35,7 @@
   - Find / Search in path : Ctrl + Shift + ( F / R )
   - Next / previous occurence : F3 / Shift + F3
   - Go to file member : Ctrl + F12
+  
+- Navigate from symbols
+  - Declaration : Ctrl + B
+  
