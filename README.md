@@ -1,6 +1,5 @@
-# Pycharm-Keymap
-### For Windows 
-### Best Uses
+# Pycharm-Keymap (For Windows) 
+## Best Uses
 
 [Pycharm Reference Card](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf?_ga=2.260159565.1119855224.1604561230-311796501.1604243799)
 
@@ -37,5 +36,7 @@
   - Go to file member : Ctrl + F12
   
 - Navigate from symbols
-  - Declaration : Ctrl + B
-  
+  - Go to declaration : Ctrl + B
+  - Find all usages : Alt + F7
+  - Find usage in file : Ctrl + F7 
+  - Show usages : Ctrl + Alt + F7
