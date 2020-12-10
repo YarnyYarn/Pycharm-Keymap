@@ -40,3 +40,7 @@
   - Find all usages : Alt + F7
   - Find usage in file : Ctrl + F7 
   - Show usages : Ctrl + Alt + F7
+  
+- Refactor and clean up
+  - Refactor menu : Ctrl + Alt + Shift + T
+  - Rename : Shift + F6
