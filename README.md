@@ -44,3 +44,6 @@
 - Refactor and clean up
   - Refactor menu : Ctrl + Alt + Shift + T
   - Rename : Shift + F6
+  - Inline : Ctrl + Alt + N
+  - Extract method : Ctrl + Alt + M
+  - Reformat code : Ctrl + Alt + L
