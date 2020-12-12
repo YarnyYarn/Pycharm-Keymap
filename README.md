@@ -35,15 +35,22 @@
   - Next / previous occurence : F3 / Shift + F3
   - Go to file member : Ctrl + F12
   
+  
 - Navigate from symbols
   - Go to declaration : Ctrl + B
   - Find all usages : Alt + F7
   - Find usage in file : Ctrl + F7 
   - Show usages : Ctrl + Alt + F7
   
+
 - Refactor and clean up
   - Refactor menu : Ctrl + Alt + Shift + T
   - Rename : Shift + F6
   - Inline : Ctrl + Alt + N
   - Extract method : Ctrl + Alt + M
   - Reformat code : Ctrl + Alt + L
+  
+- Analyze and explore
+  - Show error description : Ctrl + F1
+  - Next / previous error : F2 / Shift + F2
+  
